@@ -1,7 +1,5 @@
 # Full-Stack-AI-Voice-Assistant
 
-# Full-Stack AI Voice Assistant
-
 A full-stack web application enabling voice interactions with AI, integrating speech recognition, text-to-speech, and generative AI (Gemini/OpenAI).
 
 ##  Features
@@ -23,10 +21,10 @@ A full-stack web application enabling voice interactions with AI, integrating sp
 
 ##  Tech Stack
 
-**Frontend** : React, Vite, TailwindCSS, Web Speech API 
-**Backend** : Django REST Framework, Celery, PostgreSQL
-**AI Services** : Gemini API, OpenAI API, Hugging Face API
-**Deployment** : Docker, NGINX
+**Frontend** : React, Vite, TailwindCSS, Web Speech API <br>
+**Backend** : Django REST Framework, Celery, PostgreSQL <br>
+**AI Services** : Gemini API, OpenAI API, Hugging Face API <br>
+**Deployment** : Docker, NGINX <br>
 
 ## Installation
 
